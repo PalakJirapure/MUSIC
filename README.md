@@ -109,6 +109,11 @@ python manage.py migrate
 
 python manage.py runserver
 
+# TEAM :-
+## Palak Jirapure
+## Ankita Vijay Rai
+## Pragya Dave
+
 
 
 
