@@ -14,7 +14,7 @@ This website allows you to listen to your favourate music.
 
 # Features
 
-Play Song
+Play Songs
 
 View detailed information of Songs
 
