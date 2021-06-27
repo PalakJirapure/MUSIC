@@ -10,7 +10,7 @@ This website allows you to listen to your favourate music.
 
 -Django is used as the Database for BACKEND
 
--HTML CSS and Javascript Django templates are used in FRONTEND using Bootstrap
+-HTML Django templates are used in FRONTEND using Bootstrap
 
 # Features
 
