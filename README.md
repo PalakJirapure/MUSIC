@@ -10,7 +10,7 @@ This website allows you to listen to your favourate music.
 
 -Django is used as the Database for BACKEND
 
--HTML Django templates are used in FRONTEND using Bootstrap
+-HTML and CSS Django templates are used in FRONTEND using Bootstrap
 
 # Features
 
@@ -110,11 +110,11 @@ python manage.py migrate
 python manage.py runserver
 
 # TEAM :-
--Palak Jirapure
+- Palak Jirapure
 
--Ankita Vijay Rai
+- Ankita Vijay Rai
 
--Pragya Dave
+- Pragya Dave
 
 
 
