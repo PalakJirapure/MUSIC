@@ -22,6 +22,8 @@ View Lyrics of the Songs
 
 Search Songs
 
+Increase or Decrease the volume of the Song 
+
 # Website Preview
 
 ## Home Page
