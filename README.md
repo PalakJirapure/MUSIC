@@ -8,9 +8,9 @@ This website allows you to listen to your favourate music.
 
 # Specifications of the App
 
-- Python(Django) is used as the Database for BACKEND
+- Python (Django) is used as the Database for BACKEND
 
--HTML and CSS Django templates are used in FRONTEND using Bootstrap
+- HTML and CSS Django templates are used in FRONTEND using Bootstrap
 
 # Features
 
