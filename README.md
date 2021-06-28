@@ -10,7 +10,7 @@ This website allows you to listen to your favourite music.
 
 - Python (Django) is used as the Database for BACKEND
 
-- HTML and CSS Django templates are used in FRONTEND using Bootstrap
+- HTML templates are used in FRONTEND using Bootstrap
 
 # Features
 
