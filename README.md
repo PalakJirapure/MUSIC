@@ -4,7 +4,7 @@ This is a Django based Music web application. Django administration database adm
 
 This is also a mobile friendly Website.
 
-This website allows you to listen to your favourate music.
+This website allows you to listen to your favourite music.
 
 # Specifications of the App
 
