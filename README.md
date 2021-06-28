@@ -101,7 +101,7 @@ python manage.py runserver
 "Groovy" app will start on 127.0.0.1:8000
 (Local Address)
 
-# Commonds for Generating APP - Groovy
+# Commands for Generating APP - Groovy
 
 django-admin startapp Groovy
 
