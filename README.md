@@ -101,6 +101,10 @@ python manage.py runserver
 "Groovy" app will start on 127.0.0.1:8000
 (Local Address)
 
+# Commonds for Generating APP - Groovy
+
+django-admin startapp Groovy
+
 # Applying Migrations on the Project
 
 Migrations are Django’s way of propagating changes you make to your models (adding a field, deleting a model, etc.) into your database schema. They’re designed to be mostly automatic, but you’ll need to know when to make migrations, when to run them, and the common problems you might run into. Now suppose you want to change my album'm model or song's model and have your's you can simply change the code as you require and then run these commands
